@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BetterDiscordStuff/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/BetterDiscordStuff/static/js/main.78cc5b96.chunk.js",
+    "main.js.map": "/BetterDiscordStuff/static/js/main.78cc5b96.chunk.js.map",
+    "runtime-main.js": "/BetterDiscordStuff/static/js/runtime-main.67e26751.js",
+    "runtime-main.js.map": "/BetterDiscordStuff/static/js/runtime-main.67e26751.js.map",
+    "static/js/2.c181463c.chunk.js": "/BetterDiscordStuff/static/js/2.c181463c.chunk.js",
+    "static/js/2.c181463c.chunk.js.map": "/BetterDiscordStuff/static/js/2.c181463c.chunk.js.map",
+    "index.html": "/BetterDiscordStuff/index.html",
+    "precache-manifest.b26963912f1c04113db65f683bdc9030.js": "/BetterDiscordStuff/precache-manifest.b26963912f1c04113db65f683bdc9030.js",
+    "service-worker.js": "/BetterDiscordStuff/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/BetterDiscordStuff/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c181463c.chunk.js.LICENSE": "/BetterDiscordStuff/static/js/2.c181463c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67e26751.js",
+    "static/js/2.c181463c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.78cc5b96.chunk.js"
+  ]
+}
