@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BetterDiscordStuff/precache-manifest.fe38f8d7a00b957d8c1d0ad2143942e4.js"
+  "/BetterDiscordStuff/precache-manifest.10a0f08848e6226984c1371b82b19db0.js"
 );
 
 self.addEventListener('message', (event) => {
