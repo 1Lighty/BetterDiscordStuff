@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/BetterDiscordStuff/static/css/main.1359096b.chunk.css",
-    "main.js": "/BetterDiscordStuff/static/js/main.261836c7.chunk.js",
+    "main.js": "/BetterDiscordStuff/static/js/main.dbbe1bdd.chunk.js",
     "runtime-main.js": "/BetterDiscordStuff/static/js/runtime-main.67e26751.js",
     "static/js/2.b6fd7b9e.chunk.js": "/BetterDiscordStuff/static/js/2.b6fd7b9e.chunk.js",
     "index.html": "/BetterDiscordStuff/index.html",
-    "precache-manifest.cb21a6d2d182366d3f457b5e37c1db19.js": "/BetterDiscordStuff/precache-manifest.cb21a6d2d182366d3f457b5e37c1db19.js",
+    "precache-manifest.c89355abda5312870c4c8e849fdd4588.js": "/BetterDiscordStuff/precache-manifest.c89355abda5312870c4c8e849fdd4588.js",
     "service-worker.js": "/BetterDiscordStuff/service-worker.js",
     "static/js/2.b6fd7b9e.chunk.js.LICENSE": "/BetterDiscordStuff/static/js/2.b6fd7b9e.chunk.js.LICENSE"
   },
@@ -13,6 +13,6 @@
     "static/js/runtime-main.67e26751.js",
     "static/js/2.b6fd7b9e.chunk.js",
     "static/css/main.1359096b.chunk.css",
-    "static/js/main.261836c7.chunk.js"
+    "static/js/main.dbbe1bdd.chunk.js"
   ]
 }
