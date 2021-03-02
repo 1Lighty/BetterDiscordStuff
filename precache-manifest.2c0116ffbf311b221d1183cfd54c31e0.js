@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1332c9672ab2af944205417a762177ce",
+    "revision": "22cdc3d6a3d573fad2b44e018431b593",
     "url": "/BetterDiscordStuff/index.html"
   },
   {
-    "revision": "db7131c0dedc95c5b94f",
+    "revision": "15a419f2c75d872e4d1d",
     "url": "/BetterDiscordStuff/static/css/main.1359096b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BetterDiscordStuff/static/js/2.b6fd7b9e.chunk.js.LICENSE"
   },
   {
-    "revision": "db7131c0dedc95c5b94f",
-    "url": "/BetterDiscordStuff/static/js/main.0a3e8998.chunk.js"
+    "revision": "15a419f2c75d872e4d1d",
+    "url": "/BetterDiscordStuff/static/js/main.c3275b09.chunk.js"
   },
   {
     "revision": "761c453297bd818950be",
